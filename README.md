@@ -4,4 +4,4 @@ You can convert Celsius to Fahrenheit and vice versa.
 
 #Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
